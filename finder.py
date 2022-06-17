@@ -8,7 +8,7 @@ class Finder:
         if ang2:
             self.ang2 = ang2 - 90
         else:
-            self.ang2 = ang2
+            self.ang2 = None
 
         self.range = range
 
